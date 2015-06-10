@@ -1,6 +1,5 @@
 refriedSonatype
 
-macroParadise
 monocle
 
 scalacOptions += "-language:experimental.macros"
