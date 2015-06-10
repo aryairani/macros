@@ -1,6 +1,10 @@
 # macros
 Some macros I wanted.
 
+```scala
+libraryDependencies += "arya.net" %% "macros" % "0.1"
+```
+
 ## `SimpleSealedEnum`
 ```scala
 import net.arya.macros.SimpleSealedEnum
